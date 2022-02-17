@@ -1,11 +1,11 @@
-package com.gkemayo.batch.writer;
+package com.bsaoudi.batch.writer;
 
-import com.gkemayo.batch.dto.ConvertedInputData;
-import com.gkemayo.batch.entities.Product;
-import com.gkemayo.batch.entities.PurchaseDate;
-import com.gkemayo.batch.entities.Purchaser;
-import com.gkemayo.batch.entities.Supplier;
-import com.gkemayo.batch.entitiesrepository.*;
+import com.bsaoudi.batch.dto.ConvertedInputData;
+import com.bsaoudi.batch.entities.Product;
+import com.bsaoudi.batch.entities.PurchaseDate;
+import com.bsaoudi.batch.entities.Purchaser;
+import com.bsaoudi.batch.entities.Supplier;
+import com.bsaoudi.batch.entitiesrepository.*;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.beans.factory.annotation.Autowired;
 

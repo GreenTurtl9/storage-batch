@@ -1,4 +1,4 @@
-package com.gkemayo.batch.entities;
+package com.bsaoudi.batch.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

@@ -1,6 +1,6 @@
-package com.gkemayo.batch.entitiesrepository;
+package com.bsaoudi.batch.entitiesrepository;
 
-import com.gkemayo.batch.entities.Supplier;
+import com.bsaoudi.batch.entities.Supplier;
 import org.springframework.data.jdbc.repository.query.Query;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.query.Param;

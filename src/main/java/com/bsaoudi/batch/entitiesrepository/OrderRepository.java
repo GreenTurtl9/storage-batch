@@ -1,6 +1,6 @@
-package com.gkemayo.batch.entitiesrepository;
+package com.bsaoudi.batch.entitiesrepository;
 
-import com.gkemayo.batch.entities.Order;
+import com.bsaoudi.batch.entities.Order;
 import org.springframework.data.repository.CrudRepository;
 
 public interface OrderRepository extends CrudRepository<Order, Long> {

@@ -1,4 +1,4 @@
-package com.gkemayo.batch.entitiesrepository;
+package com.bsaoudi.batch.entitiesrepository;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;

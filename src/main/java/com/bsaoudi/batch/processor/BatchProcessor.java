@@ -1,12 +1,12 @@
-package com.gkemayo.batch.processor;
+package com.bsaoudi.batch.processor;
 
-import com.gkemayo.batch.dto.ConvertedInputData;
-import com.gkemayo.batch.dto.InputData;
-import com.gkemayo.batch.entities.*;
-import com.gkemayo.batch.entitiesrepository.ProductRepository;
-import com.gkemayo.batch.entitiesrepository.PurchaseDateRepository;
-import com.gkemayo.batch.entitiesrepository.PurchaserRepository;
-import com.gkemayo.batch.entitiesrepository.SupplierRepository;
+import com.bsaoudi.batch.dto.ConvertedInputData;
+import com.bsaoudi.batch.dto.InputData;
+import com.bsaoudi.batch.entities.*;
+import com.bsaoudi.batch.entitiesrepository.ProductRepository;
+import com.bsaoudi.batch.entitiesrepository.PurchaseDateRepository;
+import com.bsaoudi.batch.entitiesrepository.PurchaserRepository;
+import com.bsaoudi.batch.entitiesrepository.SupplierRepository;
 import org.springframework.batch.item.ItemProcessor;
 import org.springframework.beans.factory.annotation.Autowired;
 

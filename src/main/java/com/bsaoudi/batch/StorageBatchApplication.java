@@ -1,12 +1,12 @@
-package com.gkemayo.batch;
+package com.bsaoudi.batch;
 
-import com.gkemayo.batch.batchutils.BatchJobListener;
-import com.gkemayo.batch.batchutils.BatchStepSkipper;
-import com.gkemayo.batch.dto.ConvertedInputData;
-import com.gkemayo.batch.dto.InputData;
-import com.gkemayo.batch.processor.BatchProcessor;
-import com.gkemayo.batch.reader.BatchReader;
-import com.gkemayo.batch.writer.BatchWriter;
+import com.bsaoudi.batch.batchutils.BatchJobListener;
+import com.bsaoudi.batch.batchutils.BatchStepSkipper;
+import com.bsaoudi.batch.dto.ConvertedInputData;
+import com.bsaoudi.batch.dto.InputData;
+import com.bsaoudi.batch.processor.BatchProcessor;
+import com.bsaoudi.batch.reader.BatchReader;
+import com.bsaoudi.batch.writer.BatchWriter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;

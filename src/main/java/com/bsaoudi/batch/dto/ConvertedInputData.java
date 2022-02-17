@@ -1,6 +1,6 @@
-package com.gkemayo.batch.dto;
+package com.bsaoudi.batch.dto;
 
-import com.gkemayo.batch.entities.*;
+import com.bsaoudi.batch.entities.*;
 import lombok.Data;
 
 @Data

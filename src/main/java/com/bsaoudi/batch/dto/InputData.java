@@ -1,4 +1,4 @@
-package com.gkemayo.batch.dto;
+package com.bsaoudi.batch.dto;
 
 import lombok.*;
 

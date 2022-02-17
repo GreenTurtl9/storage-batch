@@ -1,4 +1,4 @@
-package com.gkemayo.batch;
+package com.bsaoudi.batch;
 
 
 import org.junit.Assert;

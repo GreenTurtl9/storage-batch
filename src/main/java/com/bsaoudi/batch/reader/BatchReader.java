@@ -1,6 +1,6 @@
-package com.gkemayo.batch.reader;
+package com.bsaoudi.batch.reader;
 
-import com.gkemayo.batch.dto.InputData;
+import com.bsaoudi.batch.dto.InputData;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.batch.item.file.FlatFileItemReader;

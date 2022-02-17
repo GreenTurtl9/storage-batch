@@ -1,4 +1,4 @@
-package com.gkemayo.batch.batchutils;
+package com.bsaoudi.batch.batchutils;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.batch.core.step.skip.SkipLimitExceededException;
